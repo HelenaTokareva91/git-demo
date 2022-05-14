@@ -2,5 +2,3 @@ Hello world
 Hi
 Hola
 How are you?
-I'm fine, and you?
-See ya!
